@@ -1,7 +1,7 @@
 title:            Tanf
 description:      当你的才华还撑不起你的野心时，你就应该静下心来学习。
 url:              # Site url.
-baseurl:          http://tandaly.github.com
+baseurl:          http://tandaly.github.com/blog
 year:               2014
 signoff:          Tanf # Your name.
 disqus_shortname: tandalygithub # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -17,12 +17,12 @@ links:
     url:          http://tandaly.github.io/test/ip.html
     external:     true
   - name:         Feed
-    url:          /feed.xml
+    url:          /blog/feed.xml
     external:     true
   - name:         Links
-    url:          /links
+    url:          /blog/links
   - name:         About
-    url:          /about
+    url:          /blog/about
 
 pygments:         true
 permalink:        pretty
