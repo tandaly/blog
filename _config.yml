@@ -1,0 +1,31 @@
+title:            Tanf
+description:      当你的才华还撑不起你的野心时，你就应该静下心来学习。
+url:              # Site url.
+baseurl:          http://tandaly.github.com
+year:               2014
+signoff:          Tanf # Your name.
+disqus_shortname: tandalygithub # disqus comment thread for post header options. ( leave blank if unwanted. )
+google_analytics_id: # set tracking, UA-XXXX-Y.
+
+links:
+  - name:         Blog
+    url:          http://tandaly.github.io
+  - name:         Tools
+    url:          http://tools.dedecms.com/
+    external:     true
+  - name:         Google-ips
+    url:          http://tandaly.github.io/test/ip.html
+    external:     true
+  - name:         Feed
+    url:          /feed.xml
+    external:     true
+  - name:         Links
+    url:          /links
+  - name:         About
+    url:          /about
+
+pygments:         true
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:     [autolink, tables]
