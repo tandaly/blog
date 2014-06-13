@@ -1,0 +1,28 @@
+<div class="share">
+<!-- JiaThis Button BEGIN -->
+<div class="jiathis_style">
+<a class="jiathis_button_tsina"></a>
+<a class="jiathis_button_tqq"></a>
+<a class="jiathis_button_renren"></a>
+<a class="jiathis_button_qzone"></a>
+<a href="http://www.jiathis.com/share?uid=1872349" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank"></a>
+<a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript" >
+var jiathis_config={
+	data_track_clickback:true,
+	summary:"",
+	shortUrl:true,
+	hideMore:false
+}
+</script>
+<!-- JiaThis Button END -->
+
+    
+    {% if weibo_share==true %}
+    <section imagesd="comment">
+        <h1>Add a commnet</h1>
+        {% include post/duoshuo.html %}
+    </section>
+    {% endif %}
+</div>
