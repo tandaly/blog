@@ -10,6 +10,8 @@ google_analytics_id: # set tracking, UA-XXXX-Y.
 links:
   - name:         Blog
     url:          http://tandaly.github.io
+  - name:         Course
+    url:          http://tandaly.github.io/course
   - name:         Tools
     url:          http://tools.dedecms.com/
     external:     true
