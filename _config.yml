@@ -12,6 +12,7 @@ links:
     url:          http://tandaly.github.io
   - name:         Course
     url:          http://tandaly.github.io/course
+    external:     true
   - name:         Tools
     url:          http://tools.dedecms.com/
     external:     true
