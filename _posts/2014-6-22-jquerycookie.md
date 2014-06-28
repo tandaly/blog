@@ -23,7 +23,7 @@ date: 2014-06-28 21:32:10
 $.cookie('name', 'value');
 ```
 
-创建有效期位7天的cookie:
+创建有效期为7天的cookie:
 
 ```javascript
 $.cookie('name', 'value', { expires: 7 });
