@@ -13,6 +13,8 @@ links:
   - name:         Course
     url:          http://tandaly.github.io/course
     external:     true
+  - name:         Course
+    url:          games
   - name:         Tools
     url:          http://tools.dedecms.com/
     external:     true
@@ -20,12 +22,12 @@ links:
     url:          http://tandaly.github.io/test/ip.html
     external:     true
   - name:         Feed
-    url:          /blog/feed.xml
+    url:          feed.xml
     external:     true
   - name:         Links
-    url:          /blog/links
+    url:          links
   - name:         About
-    url:          /blog/about
+    url:          about
 
 pygments:         true
 permalink:        pretty
