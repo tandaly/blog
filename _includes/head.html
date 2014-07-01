@@ -10,3 +10,22 @@
 <!-- {% if site.google_analytics_id %}
   {% include ga.html %}
 {% endif %} -->
+
+<!--鼠标左键显示积分-->
+<script type="text/javascript">
+$("html,body").on("click",function(e){
+    anp(e);
+})
+
+function anp(e){
+    var n=Math.round(Math.random()*10);
+    var $i=$("<b>").text("+"+n);
+    var x=e.pageX,y=e.pageY;
+    $i.css({top:y-20,left:x,position:"absolute",color:"#E94F06"});
+    $("body").append($i);
+    $i.animate({top:y-180,opacity:0,"font-size":"1.4em"},1500,function(){
+        $i.remove();
+    });
+    e.stopPropagation();
+}
+</script>
