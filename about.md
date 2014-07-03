@@ -31,7 +31,7 @@ Tanf，男，重庆人，现居南京。
 ###ME 信息导数据
  
  ```json
-[{
+{
     "base":{
         "Name": "Tanf", 
         "Sex": "Male",
@@ -40,17 +40,17 @@ Tanf，男，重庆人，现居南京。
     },
     "extra":{
         "Nickname": "Tandaly",
-        "Mail": "tandaly001@gmail.com",
+        "Mail": "tandaly@qq.com",
         "Website": "http://tandaly.github.com",
         "Hometown": "ChongQing"
     }
-}]
+}
 ```
 
 ---
 
 ###联系方式
-邮箱：[tandaly001@gmail.com](mailto:tandaly001@gmail.com)
+邮箱：[tandaly@qq.com](mailto:tandaly@qq.com)
 
 ---
 
