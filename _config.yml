@@ -31,6 +31,7 @@ pygments:         true
 permalink:        /:year/:month/:day/:title.html
 # 当修改文件时重新生成站点
 auto:             true
-markdown:         redcarpet
+#markdown:         redcarpet
+markdown:         rdiscount
 redcarpet:
   extensions:     [autolink, tables]
