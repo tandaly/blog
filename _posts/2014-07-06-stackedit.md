@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在线stackedit测试
-date: 2014-07-6 17:32:10  
+date: 2014-07-06 17:32:10  
 ---
 
 #### **功能介绍**
@@ -12,7 +12,7 @@ date: 2014-07-6 17:32:10
 
 >- **随身行** 比如在公司使用后，回到家后想继续工作，只需要导出`StackEdit local storage.json` ，回到家后打开网站导入`StackEdit local storage.json` 即可。具体导入导出操作在`Menu->Settings->Utils`下。
 
->- 手机上也可以照样用
+>- 手机上也可以照样用，现在正躺在床上轻松书写。
 
 
 在字里行间插入代码片段`var a = 0`，怎么样，还可以吧。
@@ -44,6 +44,16 @@ document.write(a);
 ### 第1节
 
 梵蒂冈
+
+    
+
+
+----------
+
+> Blockquote
+
+段落
+
 
 
 
