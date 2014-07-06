@@ -317,3 +317,7 @@ figure {
   figure figcaption {
     font-size: 16px;
     margin-top: 1em; }
+    
+ 
+code{padding:2px 4px;font-size:90%;color:#2c3f51;background-color:rgba(102,128,153,0.075);white-space:nowrap;border-radius:4px}
+code{white-space:normal}
