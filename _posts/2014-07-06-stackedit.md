@@ -35,4 +35,8 @@ document.write(a);
 
 梵蒂冈
 
+
+同步测试！
+
+
 作者：[tandaly](http://tandaly.github.com)
