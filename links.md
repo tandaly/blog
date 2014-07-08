@@ -28,11 +28,14 @@ disqus: true
 ### kaiyuanlei
 [jfinal](http://www.jfinal.com)
 
+---
+
 ### 生活类
 
 [生活常识网](http://www.woygo.com)&nbsp; &nbsp; 
 
+---
 
+### 友情类
 
-    
-
+[轩枫阁](http://www.xuanfengge.com)
