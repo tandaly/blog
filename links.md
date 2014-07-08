@@ -25,7 +25,7 @@ disqus: true
 
 ---
 
-### kaiyuanlei
+### 开源类
 [jfinal](http://www.jfinal.com)
 
 ---
