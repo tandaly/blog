@@ -275,7 +275,7 @@ section.post {
     section.post blockquote:hover {
       color: #454545; }
 
-.highlight pre {
+div.highlight pre {
   word-wrap: break-word;
   color: #eee;
   background: #29281e;
