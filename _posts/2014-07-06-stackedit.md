@@ -45,7 +45,7 @@ document.write(a);
 
 ### 第1节
 
-梵蒂冈
+梵`蒂`冈
 
 ![设置](https://raw.githubusercontent.com/tandaly/res/master/img/powerdesigner01.jpg) 
 
