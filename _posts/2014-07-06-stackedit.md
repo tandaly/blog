@@ -47,7 +47,7 @@ document.write(a);
 
 梵`蒂`冈
 
-![设置](https://raw.githubusercontent.com/tandaly/res/master/img/powerdesigner01.jpg"去掉PowerDesigner中生成sql的双引号") 
+![](https://raw.githubusercontent.com/tandaly/res/master/img/powerdesigner01.jpg "去掉PowerDesigner中生成sql的双引号") 
 
-
+ 
 作者：[tandaly](http://tandaly.github.com)
