@@ -47,7 +47,7 @@ document.write(a);
 
 梵蒂冈
 
-![设置](https://raw.githubusercontent.com/tandaly/res/master/img/powerdesigner01.jpg)
+![设置](https://raw.githubusercontent.com/tandaly/res/master/img/powerdesigner01.jpg) 
 
 
 作者：[tandaly](http://tandaly.github.com)
