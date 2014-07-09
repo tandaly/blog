@@ -13,7 +13,7 @@ disqus: true
 
 ### 聊天类
 
-[在线聊天](http://tandaly.github.com/game/kedou)
+[互动聊天室](http://tandaly.github.com/game/kedou)
 
     
 
