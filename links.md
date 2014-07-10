@@ -4,6 +4,11 @@ title: 友情链接
 disqus: true
 ---
 
+### 友情类
+
+[轩枫阁](http://www.xuanfengge.com)
+
+---
 
 ### 技术类
 
@@ -33,8 +38,8 @@ disqus: true
 
 [生活常识网](http://www.woygo.com)&nbsp; &nbsp; 
 
----
+--- 
 
-### 友情类
+### jquery插件
 
-[轩枫阁](http://www.xuanfengge.com)
+[快捷键(热键)](https://github.com/tzuryby/jquery.hotkeys)
