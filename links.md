@@ -18,7 +18,7 @@ disqus: true
 
 ### 工具类
 
-[百度翻译](http://fanyi.baidu.com) &nbsp; &nbsp; [在线markdown](http://markable.in/editor/) &nbsp; &nbsp; [在线ppt](http://slides.com/)&nbsp;&nbsp;
+[百度翻译](http://fanyi.baidu.com) &nbsp; &nbsp; [色彩颜色](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)&nbsp;&nbsp;[在线markdown](http://markable.in/editor/) &nbsp; &nbsp; [在线ppt](http://slides.com/)&nbsp;&nbsp;
 
 ---
  
