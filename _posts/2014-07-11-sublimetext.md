@@ -10,3 +10,7 @@ date: 2014-07-11
 
 
 
+### 参考
+
+>- [实用的sublime插件集合](http://www.xuanfengge.com/practical-collection-of-sublime-plug-in.html)
+
