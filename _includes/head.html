@@ -18,8 +18,8 @@
 <script>
   $(function(){
     $("a").each(function(){
-      console.log($this.attr("target"));
       $this = $(this);
+      console.log($this.attr("target"));
       var href = $this.attr("href");
       if(href.substring(0,4) === 'http'){
         $this.attr("target", "_blank");
