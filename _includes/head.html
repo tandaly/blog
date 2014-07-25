@@ -15,15 +15,21 @@
 <link rel="stylesheet" type="text/css" href="https://stackedit-beta.herokuapp.com/res-min/themes/default.css">
 -->
 
+<!--add tanf 2014-07-25-->
 <script>
   $(function(){
     $("a").each(function(){
       $this = $(this);
-      console.log($this.attr("target"));
+      var target = $this.attr("target");
+      if(!target){
+        $this.attr("target", "_blank");
+      }
+      /*
       var href = $this.attr("href");
       if(href.substring(0,4) === 'http'){
         $this.attr("target", "_blank");
       }
+      */
     });
   });
 </script> 
