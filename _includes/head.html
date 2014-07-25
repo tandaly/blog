@@ -18,6 +18,7 @@
 <script>
   $(function(){
     $("a").each(function(){
+      console.log($this.attr("target"));
       $this = $(this);
       var href = $this.attr("href");
       if(href.substring(0,4) === 'http'){
