@@ -15,6 +15,9 @@ links:
     external:     true
   - name:         Game
     url:          /blog/games
+  - name:         Video
+    url:          /blog/video
+    external:     true
   - name:         Tools
     url:          http://tools.dedecms.com/
     external:     true
