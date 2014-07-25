@@ -25,7 +25,7 @@
       //排除
       if(href.substring(0,1) === '#'){
         console.log(href);
-        continue;
+        return;
       }
       
       //如果没有指定target，那么就认为是markdown的连接
