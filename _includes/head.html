@@ -20,6 +20,14 @@
   $(function(){
     $("a").each(function(){
       $this = $(this);
+      
+      var href = $this.attr("href");
+      //排除
+      if(href.substring(0,1) === '#'){
+        continue;
+      }
+      
+      //如果没有指定target，那么就认为是markdown的连接
       var target = $this.attr("target");
       if(!target){
         $this.attr("target", "_blank");
