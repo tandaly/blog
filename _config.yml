@@ -18,6 +18,9 @@ links:
   - name:         Video
     url:          /blog/video
     external:     true
+- name:         Pages
+    url:          /pages/
+    external:     true
   - name:         Tools
     url:          http://tools.dedecms.com/
     external:     true
