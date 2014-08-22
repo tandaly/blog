@@ -18,7 +18,7 @@ links:
   - name:         Video
     url:          /blog/video
     external:     true
-- name:         Pages
+  - name:         Pages
     url:          /pages/
     external:     true
   - name:         Tools
